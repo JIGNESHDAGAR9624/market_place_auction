@@ -1,0 +1,15 @@
+.nav-link{
+    color:white;
+ }
+ .navbar_section nav{
+    background: #000;
+ }
+ .navbar_section .nav-item .active{
+    color: rgb(200, 200, 27);
+ }
+ .navbar-brand{
+    color: white;
+ }
+ #navbarNavDropdown{
+    justify-content: end;
+ }

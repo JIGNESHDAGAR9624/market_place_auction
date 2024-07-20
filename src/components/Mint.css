@@ -1,0 +1,54 @@
+.nft-form {
+   
+   width: 30%;
+   margin: auto;
+    padding: 20px;
+   border: 2px solid #ccc;
+   border-radius: 8px;
+   background-color: #c4dbec;
+   margin-top: 80px;
+  }
+
+  .nft-div{
+    font-weight: bold;
+  }
+
+  .form-group {
+    
+    margin-bottom: 15px;
+  } 
+  
+   .form-group label {
+
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  } 
+  
+  .form-group input, 
+  .form-group textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #cccccca2;
+    border-radius: 4px;
+  } 
+  
+   .form-group textarea {
+    resize: vertical;  /* for description box text verticle*/
+  } 
+  
+   button { 
+    width: 100%;
+    padding: 10px;
+    background-color: #0064f0;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;  /* for Hand Pointer */
+
+  } 
+  
+   button:hover {
+    background-color: #0c8cb7; /* for button hover */
+   } 
+   
